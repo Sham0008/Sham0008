@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**Sham0008/Sham0008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I’m Shambhavi!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Aspiring Full Stack Developer | Data Enthusiast 
+
+Welcome to my GitHub profile! I’m Shambhavi, a passionate and driven individual embarking on an exciting journey into the world of full stack development, data, and cloud technology. I’m eager to leverage my growing skills to build innovative solutions and contribute to dynamic projects.
+
+## 🚀 About Me
+
+- 🌱 Currently learning: Full Stack Development, Data Analysis
+- 💡 Fascinated by: Data-driven decision making and end-to-end application development
+- 🎯 Goal: To become a proficient full stack developer with expertise in data  and cloud technologies
+
+## 🛠️ Technologies & Tools
+
+### 🌐 Full Stack Development:
+- **Front-End**: HTML, CSS, JavaScript, React
+- **Back-End**: Node.js, Express, Python, Django, 
+- **Databases**: MongoDB, MySQL
+
+### 📊 Data & Analytics:
+- **Languages**: Python, 
+- **Libraries**: Pandas, NumPy, Matplotlib
+- **Tools**: Jupyter Notebooks
+
+### ☁️ Cloud Computing:
+- **Platforms**: AWS
+- **Services**: EC2, S3, Lambda, 
+
+## 🌟 Let's Connect!
+
+- **LinkedIn**:https://www.linkedin.com/in/shambhavimishra0008/
+
+
+Feel free to reach out if you have any questions, project opportunities, or just want to chat about tech!
+
+Thank you for visiting my profile. Let’s build something amazing together!
+
+---
+
+
